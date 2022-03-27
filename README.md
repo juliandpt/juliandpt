@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi, I'm Julián 👋
 
-<!--
-**juliandpt/juliandpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Computer Science Engineer. Software developer
+- 🏡 Madrid, Spain
+- 🏢 Technical Consulting at [SAS](https://www.sas.com)
+- 🌱 Passionate about Full Stack Development
+- 🏅 SAS Certified Speacialist
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api?username=juliandpt&show_icons=true&theme=vue">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt">
+</a>
+
+## About me
+```javascript
+const juliandepablo = {
+    pronouns: "he/him",
+    languages: ["Spanish", "English"],
+    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "SAS"],
+    tools: {
+        frontend: ["Angular.js", "Vue.js", "Nuxt.js"],
+        backend: ["Node.js", "Flask", "Firebase"]
+    },
+    recognitions: ["SAS Certified Speacialist: Base Programming"],
+    links: {
+        website: "https://juliandepablo.com",
+        linkedin: "https://linkedin.com/in/carlosazaustre",
+        instagram: "https://instagram.com/julidpt",
+        twitter: "https://twitter.com/depabloj"
+    },
+};
+```
