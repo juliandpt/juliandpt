@@ -4,15 +4,13 @@
 - 🏡 Madrid, Spain
 - 🏢 Technical Consulting at [SAS](https://www.sas.com)
 - 🌱 Passionate about Full Stack Development
-- 🏅 SAS Certified Speacialist
+- 🏅 SAS Certified Specialist
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt&langs_count=3">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api?username=juliandpt&show_icons=true">
-</a>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api?username=juliandpt&show_icons=true">
+    </a>
+</p>
 
 ## About me
 ```javascript
@@ -24,7 +22,7 @@ const juliandepablo = {
         frontend: ["Angular.js", "Vue.js", "Nuxt.js"],
         backend: ["Node.js", "Flask", "Firebase"]
     },
-    recognitions: ["SAS Certified Speacialist: Base Programming"],
+    recognitions: ["SAS Certified Specialist: Base Programming"],
     links: {
         website: "https://juliandepablo.com",
         linkedin: "https://linkedin.com/in/juliandepablo",
