@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt">
+    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt&layout=compact">
 </a>
 
 ## About me
@@ -27,7 +27,7 @@ const juliandepablo = {
     recognitions: ["SAS Certified Speacialist: Base Programming"],
     links: {
         website: "https://juliandepablo.com",
-        linkedin: "https://linkedin.com/in/carlosazaustre",
+        linkedin: "https://linkedin.com/in/juliandepablo",
         instagram: "https://instagram.com/julidpt",
         twitter: "https://twitter.com/depabloj"
     },
