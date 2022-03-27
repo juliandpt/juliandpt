@@ -7,11 +7,11 @@
 - 🏅 SAS Certified Speacialist
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api?username=juliandpt&show_icons=true&theme=vue">
+    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt&langs_count=3">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliandpt&langs_count=3">
+    <img alt="Julian's stats" src="https://github-readme-stats.vercel.app/api?username=juliandpt&show_icons=true&theme=vue">
 </a>
 
 ## About me
