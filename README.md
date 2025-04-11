@@ -2,9 +2,8 @@
 
 - 👨🏻‍💻 Computer Science Engineer. Software developer
 - 🏡 Madrid, Spain
-- 🏢 Technical Consulting at [SAS](https://www.sas.com)
+- 🏢 Software Engineer at [CaixaBank Tech]([https://www.sas.com](https://caixabanktech.com/es/pagina-de-inicio/))
 - 🌱 Passionate about Full Stack Development
-- 🏅 SAS Certified Specialist
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,12 +16,11 @@
 const juliandepablo = {
     pronouns: "he/him",
     languages: ["Spanish", "English"],
-    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++", "SAS"],
+    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C++"],
     tools: {
-        frontend: ["Angular.js", "Vue.js", "Nuxt.js"],
-        backend: ["Node.js", "Flask", "Firebase"]
+        frontend: ["React", "Angular.js", "Vue.js", "Nuxt.js", "Svelte", "Astro"],
+        backend: ["Node.js", "Spring", "Flask", "Firebase", "Supabase"]
     },
-    recognitions: ["SAS Certified Specialist: Base Programming"],
     links: {
         website: "https://juliandepablo.com",
         linkedin: "https://linkedin.com/in/juliandepablo",
