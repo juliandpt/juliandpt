@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Computer Science Engineer. Software developer
 - 🏡 Madrid, Spain
-- 🏢 Software Engineer at [CaixaBank Tech]([https://www.sas.com](https://caixabanktech.com/es/pagina-de-inicio/))
+- 🏢 Software Engineer at [CaixaBank Tech](https://caixabanktech.com/es/pagina-de-inicio/)
 - 🌱 Passionate about Full Stack Development
 
 <p align="center">
